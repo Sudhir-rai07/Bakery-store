@@ -8,7 +8,7 @@ import React from 'react'
 const HeroSection = () => {
     return (
         <div className='bg-white w-full mt-8  mx-auto rounded-lg py-6'>
-            <div className='flex flex-wrap gap-4 justify-center mt-8 text-8xl text-center font-sans font-extrabold  '>
+            <div className='flex flex-wrap gap-4 justify-center mt-8 text-7xl md:text-8xl text-center font-sans font-extrabold  '>
                 <div className='relative w-fit'>
                     BAKE
                     <span className='absolute top-8 -right-5 -skew-3 text-sm bg-green-800 rounded-full px-4 py-1 text-white'> TASTY</span>
